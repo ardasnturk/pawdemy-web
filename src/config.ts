@@ -21,7 +21,7 @@ export const APP_STORE_URL: string | null = null;
 /** Public address of the site without a trailing slash; must match `public/CNAME`. */
 export const SITE_URL: string | null = "https://pawly.ardasnturk.com";
 
-export type ScreenSlot = "home" | "care" | "training" | "memories" | "ask" | "family" | "profile";
+export type ScreenSlot = "home" | "care" | "training" | "memories" | "ask" | "family" | "profile" | "species" | "nearby";
 
 /**
  * Raw iPhone screenshots in `public/screens/<language>/<slot>.png` (1206×2622, demo data from the app's

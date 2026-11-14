@@ -104,6 +104,7 @@ export interface HomeDictionary {
   memories: FeatureSection;
   ask: FeatureSection;
   family: FeatureSection;
+  nearby: FeatureSection;
   onboarding: FeatureSection;
   privacy: { eyebrow: string; title: string; subtitle: string; items: Item[] };
   pro: { eyebrow: string; title: string; subtitle: string; free: string; freeItems: string[]; proTitle: string; proItems: string[]; trial: string };

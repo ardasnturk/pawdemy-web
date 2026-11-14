@@ -2,9 +2,9 @@ import type { BaseDictionary } from "./types";
 
 export const tr: BaseDictionary = {
   meta: {
-    title: "{app} – iPhone için Köpek Bakımı, Eğitim ve Anılar",
+    title: "{app} – iPhone için Evcil Hayvan Bakımı, Eğitim ve Anılar",
     description:
-      "{app}, köpeğinle ilgili her şeyi tek yerde toplar: aşı planı ve hatırlatmalar, günlük kayıt ve tuvalet zamanlayıcısı, harcamalar, her yaşa uygun eğitim, fotoğraf anıları ve Apple Intelligence ile yanıtlar. Gizli, iPhone'unda.",
+      "{app}; köpek, kedi, tavşan, kuş, küçük hayvan, balık ve sürüngenlerinle ilgili her şeyi tek yerde toplar: bakım planı ve hatırlatmalar, günlük kayıt, bütçe, her yaşa uygun eğitim, fotoğraf anıları, yakındaki veterinerler ve Apple Intelligence ile yanıtlar. Gizli, iPhone'unda.",
   },
   nav: {
     features: "Özellikler",
@@ -21,7 +21,7 @@ export const tr: BaseDictionary = {
   },
   appStore: { small: "App Store'dan", large: "İndir", soonSmall: "Çok yakında", soonLarge: "App Store'da" },
   footer: {
-    tagline: "Köpeğinle ilgili her şey, iPhone için sakin ve gizli tek bir uygulamada; ona bakan herkesle paylaşılır.",
+    tagline: "Evcil hayvanlarınla ilgili her şey, iPhone için sakin ve gizli tek bir uygulamada; onlara bakan herkesle paylaşılır.",
     product: "Ürün",
     legal: "Yasal",
     privacy: "Gizlilik Politikası",
@@ -35,13 +35,13 @@ export const tr: BaseDictionary = {
     back: "Ana sayfaya dön",
     privacyTitle: "Gizlilik Politikası",
     privacyIntro:
-      "Bu politika, {developer} tarafından geliştirilen iPhone uygulaması {app}'nin (“{app}”, “uygulama”) bilgilerini nasıl işlediğini açıklar. Kısacası: köpeğin hakkında girdiğin her şey, fotoğrafları dahil, iPhone'unda kalır. Uygulamada hesap, reklam ve analiz yoktur; geliştiricinin bir sunucusu yoktur. Bilgiler cihazından yalnızca iCloud yedeklemeyi veya aile paylaşımını seçersen (kendi iCloud'unda saklanır), {app} PRO satın alımlarında ve uygulama bir yerin adını Apple Haritalar'a sorduğunda çıkar.",
+      "Bu politika, {developer} tarafından geliştirilen iPhone uygulaması {app}'nin (“{app}”, “uygulama”) bilgilerini nasıl işlediğini açıklar. Kısacası: evcil hayvanların hakkında girdiğin her şey, fotoğrafları dahil, iPhone'unda kalır. Uygulamada hesap, reklam ve analiz yoktur; geliştiricinin bir sunucusu yoktur. Bilgiler cihazından yalnızca iCloud yedeklemeyi veya aile paylaşımını seçersen (kendi iCloud'unda saklanır), {app} PRO satın alımlarında, uygulama Apple Haritalar'da yer aradığında ve partner veteriner ve petshopların herkese açık listesini indirdiğinde çıkar.",
     privacySections: [
       {
         title: "1. Topladığımız veriler",
         paragraphs: [
-          "Geliştirici hiçbir verini toplamaz veya almaz. {app}'de kullanıcı hesabı, reklam, analiz veya izleme yoktur. Köpeğinin profili, sağlık kayıtları, günlük kayıtları, harcamaları, eğitim ilerlemesi ve fotoğrafları iPhone'undaki bir veritabanında saklanır.",
-          "Uygulamada yalnızca bir üçüncü taraf bileşen vardır: yalnızca {app} PRO satın alımlarını yönetmek için kullanılan RevenueCat (bölüm 7). Köpeğinle ilgili bilgileri veya fotoğrafları asla almaz.",
+          "Geliştirici hiçbir verini toplamaz veya almaz. {app}'de kullanıcı hesabı, reklam, analiz veya izleme yoktur. Evcil hayvanlarının profilleri, sağlık kayıtları, günlük kayıtları, harcamaları, eğitim ilerlemesi ve fotoğrafları iPhone'undaki bir veritabanında saklanır.",
+          "Uygulamada yalnızca bir üçüncü taraf bileşen vardır: yalnızca {app} PRO satın alımlarını yönetmek için kullanılan RevenueCat (bölüm 7). Evcil hayvanlarınla ilgili bilgileri veya fotoğrafları asla almaz.",
         ],
       },
       {
@@ -55,7 +55,7 @@ export const tr: BaseDictionary = {
       {
         title: "3. Pawly'ye Sor ve Apple Intelligence",
         paragraphs: [
-          "Apple Intelligence destekleyen iPhone'larda Pawly'ye Sor yanıtları, kurulumdan sonraki karşılama notu ve anı defteri bölümlerinin alt başlıkları Apple'ın cihaz üzerindeki modeli tarafından yazılır. Soruların ve köpeğinin bilgileri iPhone'unda işlenir; geliştiriciye veya başka birine gönderilmez.",
+          "Apple Intelligence destekleyen iPhone'larda Pawly'ye Sor yanıtları, kurulumdan sonraki karşılama notu ve anı defteri bölümlerinin alt başlıkları Apple'ın cihaz üzerindeki modeli tarafından yazılır. Soruların ve evcil hayvanlarının bilgileri iPhone'unda işlenir; geliştiriciye veya başka birine gönderilmez.",
           "Yanıtlar genel bilgidir, hatalı olabilir ve veteriner tavsiyesi değildir.",
         ],
       },
@@ -68,7 +68,7 @@ export const tr: BaseDictionary = {
       {
         title: "5. Aile paylaşımı",
         paragraphs: [
-          "Aile paylaşımı isteğe bağlıdır ve iCloud yedekleme gerektirir. Birilerini davet ettiğinde ailendeki köpekler ve tüm kayıtları ile fotoğrafları, Apple'ın iCloud paylaşımı aracılığıyla davet ettiğin kişilerle paylaşılır. Bu kişiler kayıtları görebilir ve değiştirebilir; onların girdikleri de sende görünür. Uygulamaya yazdığın ad, girdiğin kayıtların yanında gösterilir.",
+          "Aile paylaşımı isteğe bağlıdır ve iCloud yedekleme gerektirir. Birilerini davet ettiğinde ailendeki evcil hayvanlar ve tüm kayıtları ile fotoğrafları, Apple'ın iCloud paylaşımı aracılığıyla davet ettiğin kişilerle paylaşılır. Bu kişiler kayıtları görebilir ve değiştirebilir; onların girdikleri de sende görünür. Uygulamaya yazdığın ad, girdiğin kayıtların yanında gösterilir.",
           "Kimin davet edileceğine sen karar verirsin ve kişileri istediğin zaman Ayarlar › Aile ve iCloud'dan çıkarabilirsin. Bir aileden ayrılan kişinin iPhone'undan o ailenin verileri silinir.",
         ],
       },
@@ -79,25 +79,33 @@ export const tr: BaseDictionary = {
         ],
       },
       {
-        title: "7. Satın alımlar ve RevenueCat",
+        title: "7. Yakındaki veterinerler, petshoplar ve partnerler",
+        paragraphs: [
+          "Yakınımda bölümünü açtığında {app}, uygulamayı kullanırken konumunu ister ve çevrendeki veteriner ve petshopları Apple Haritalar'a sorar. Bu aramalar Apple'ın gizlilik politikasına göre Apple tarafından işlenir; konumun geliştiriciye gönderilmez.",
+          "Partner veteriner ve petshop listesi, uygulamanın GitHub Pages üzerinde barındırılan pawly.ardasnturk.com adresinden indirdiği herkese açık bir dosyadır. Bu istekle senin veya evcil hayvanlarınla ilgili hiçbir şey gönderilmez; her web sitesinde olduğu gibi barındırma hizmeti IP adresini görebilir.",
+          "Partner indirim kodları, Apple ile kullanılan App Store teklif kodlarıdır. Partnerler bir kodu kullanıp kullanmadığını veya ne zaman kullandığını öğrenmez.",
+        ],
+      },
+      {
+        title: "8. Satın alımlar ve RevenueCat",
         paragraphs: [
           "{app} PRO, uygulama içi satın alım olarak sunulur: otomatik yenilenen abonelik veya tek seferlik satın alım. Satın alımlar Apple Hesabın üzerinden Apple tarafından işlenir. Geliştirici ödeme bilgilerini asla almaz.",
-          "PRO'nun etkin olup olmadığını bilmek için uygulama, üçüncü taraf bir satın alma SDK'sı olan RevenueCat'i kullanır. RevenueCat satın alma ve işlem bilgilerini ve anonim bir uygulama kullanıcı kimliğini alır. Adını, e-posta adresini, köpeğinin verilerini veya fotoğrafları almaz; reklam veya izleme için kullanılmaz. RevenueCat gizlilik politikası: https://www.revenuecat.com/privacy",
+          "PRO'nun etkin olup olmadığını bilmek için uygulama, üçüncü taraf bir satın alma SDK'sı olan RevenueCat'i kullanır. RevenueCat satın alma ve işlem bilgilerini ve anonim bir uygulama kullanıcı kimliğini alır. Adını, e-posta adresini, evcil hayvanlarının verilerini veya fotoğrafları almaz; reklam veya izleme için kullanılmaz. RevenueCat gizlilik politikası: https://www.revenuecat.com/privacy",
           "PRO'nun ücretsiz ilk haftası ödeme ve kayıt gerektirmez. Başladığı tarih iPhone'unda saklanır.",
         ],
       },
       {
-        title: "8. Seçimlerin ve verilerini silme",
+        title: "9. Seçimlerin ve verilerini silme",
         paragraphs: [
-          "Uygulamada istediğin kaydı, fotoğrafı veya köpeği silebilirsin. Uygulamayı silmek iPhone'undaki verileri kaldırır; iCloud'undaki veriler, Ayarlar › adın › iCloud'dan silene kadar kalır. Kamera, fotoğraf ve konum izinlerini Ayarlar uygulamasından istediğin zaman değiştirebilirsin. Abonelikler App Store hesap ayarlarından yönetilir ve iptal edilir.",
+          "Uygulamada istediğin kaydı, fotoğrafı veya evcil hayvanı silebilirsin. Uygulamayı silmek iPhone'undaki verileri kaldırır; iCloud'undaki veriler, Ayarlar › adın › iCloud'dan silene kadar kalır. Kamera, fotoğraf ve konum izinlerini Ayarlar uygulamasından istediğin zaman değiştirebilirsin. Abonelikler App Store hesap ayarlarından yönetilir ve iptal edilir.",
         ],
       },
       {
-        title: "9. Çocuklar",
+        title: "10. Çocuklar",
         paragraphs: ["{app} 13 yaşından küçük çocuklara yönelik değildir ve onlardan bilerek kişisel veri toplamaz."],
       },
       {
-        title: "10. Değişiklikler ve iletişim",
+        title: "11. Değişiklikler ve iletişim",
         paragraphs: ["Bu politika değişirse bu sayfayı ve yukarıdaki tarihi güncelleriz. Sorun mu var? {email} adresine yaz."],
       },
     ],
@@ -111,7 +119,7 @@ export const tr: BaseDictionary = {
       {
         title: "2. {app} PRO, abonelikler ve satın alımlar",
         paragraphs: [
-          "Bir köpeğin profili, hatırlatmalı aşı planı, günlük kayıt, harcamalar, ilk iki eğitim aşaması ve en fazla 30 fotoğraf ücretsizdir. {app} PRO; aile paylaşımı, Pawly'ye Sor, animasyonlu anı defteri, fotoğraf stüdyosu, birden fazla köpek, sınırsız fotoğraf, eğitim planının tamamı ve içgörüler ekler. Her yeni kurulumda PRO ilk hafta ücretsizdir; ödeme gerektirmez ve kendiliğinden ücretli plana dönüşmez.",
+          "Bir evcil hayvanın profili, hatırlatmalı bakım planı, günlük kayıt, harcamalar, ilk iki eğitim aşaması ve en fazla 30 fotoğraf ücretsizdir. {app} PRO; aile paylaşımı, Pawly'ye Sor, animasyonlu anı defteri, fotoğraf stüdyosu, birden fazla evcil hayvan, sınırsız fotoğraf, eğitim planının tamamı ve içgörüler ekler. Her yeni kurulumda PRO ilk hafta ücretsizdir; ödeme gerektirmez ve kendiliğinden ücretli plana dönüşmez.",
           "PRO; yıllık, 3 aylık, aylık veya haftalık otomatik yenilenen abonelik ya da tek seferlik ömür boyu satın alım olarak sunulur. Yeni kullanıcılar tek seferlik bir hoş geldin teklifi görebilir. Her planın fiyatı satın almadan önce uygulamada gösterilir; ödeme, onayladığında Apple Hesabından alınır.",
           "Abonelikler iptal edene kadar her dönemin sonunda otomatik olarak yenilenir. Sonraki dönem için ücretlendirilmemek için dönem bitmeden en az 24 saat önce App Store hesap ayarlarından iptal et. Uygulamayı silmek aboneliği iptal etmez. İadeler Apple tarafından yürütülür. Uygulamadaki Satın Alımları Geri Yükle, aynı Apple Hesabıyla giriş yapılmış bir cihazda PRO'yu geri getirir.",
         ],
@@ -119,8 +127,8 @@ export const tr: BaseDictionary = {
       {
         title: "3. Veteriner tavsiyesi değildir",
         paragraphs: [
-          "{app}, köpeğinin bakımını düzenlemene yardım eder. Aşı planı yaygın bir takvimi izler ve veterinerin bunu değiştirebilir. Eğitim dersleri, yaşam evresi rehberi, tuvalet zamanlayıcısı ve Pawly'ye Sor yanıtları genel bilgidir ve hatalı olabilir. Uygulamadaki hiçbir şey veteriner tavsiyesi, teşhis veya tedavi değildir.",
-          "Köpeğin rahatsız görünüyorsa, yaralandıysa veya zararlı bir şey yemiş olabilirse hemen bir veterinere başvur.",
+          "{app}, evcil hayvanlarının bakımını düzenlemene yardım eder. Aşı planı yaygın bir takvimi izler ve veterinerin bunu değiştirebilir. Eğitim dersleri, yaşam evresi rehberi, tuvalet zamanlayıcısı ve Pawly'ye Sor yanıtları genel bilgidir ve hatalı olabilir. Uygulamadaki hiçbir şey veteriner tavsiyesi, teşhis veya tedavi değildir.",
+          "Evcil hayvanın rahatsız görünüyorsa, yaralandıysa veya zararlı bir şey yemiş olabilirse hemen bir veterinere başvur.",
         ],
       },
       {
@@ -129,7 +137,13 @@ export const tr: BaseDictionary = {
           "Verilerin sana aittir ve iCloud yedeklemeyi veya aile paylaşımını açmadıkça iPhone'unda kalır. Ailene kimi davet ettiğinden sen sorumlusun. {app}'nin verileri nasıl işlediği Gizlilik Politikası'nda anlatılır.",
         ],
       },
-      { title: "5. İletişim", paragraphs: ["Bu koşullarla ilgili sorular için: {email}."] },
+      {
+        title: "5. Partner kodları",
+        paragraphs: [
+          "Partner veteriner ve mağazalar bağımsız işletmelerdir. İndirim kodları App Store teklif kodlarıdır: indirim, geçerli olduğu plan ve bitiş tarihi onaylamadan önce Apple tarafından gösterilir ve Apple'ın koşulları geçerlidir. Bir kod her Apple Hesabında bir kez kullanılabilir; tükenebilir veya süresi dolabilir.",
+        ],
+      },
+      { title: "6. İletişim", paragraphs: ["Bu koşullarla ilgili sorular için: {email}."] },
     ],
   },
   support: {
@@ -144,6 +158,9 @@ export const tr: BaseDictionary = {
       { title: "Pawly'ye Sor kullanılamıyor", text: "Pawly'ye Sor, Apple Intelligence destekleyen bir iPhone ve Ayarlar › Apple Intelligence ve Siri'de açık olan Apple Intelligence gerektirir. Diğer her şey desteklenen tüm iPhone'larda çalışır." },
       { title: "Arka plan silinmiyor", text: "Arka plan silme, köpeğin arka plandan net biçimde ayrıldığı fotoğraflarda en iyi sonucu verir. İşlem iPhone'unda yapılır, hiçbir şey yüklenmez." },
       { title: "AirTag'im nerede?", text: "Apple, uygulamaların AirTag konumunu okumasına izin vermiyor. Ana ekrandaki Bul'u Aç'a dokunarak köpeğinin AirTag'ini Bul uygulamasında gör; köpeğin kaybolursa Kayıp İlanı'nı kullan." },
+      { title: "Partner kodu kullan", text: "Yakınımda › Partnerler'i veya Ayarlar › Partner Kodu Kullan'ı aç ve veterinerinin ya da petshopunun verdiği kodu gir; ya da sana verdikleri bağlantıyı aç. İndirim, onaylamadan önce Apple tarafından gösterilir." },
+      { title: "Yakınımda bir şey göstermiyor", text: "Ayarlar › Gizlilik ve Güvenlik › Konum Servisleri'nden {app} için konuma izin ver ya da haritayı kaydırıp Bu Bölgede Ara'ya dokun." },
+      { title: "Partner ol", text: "Veteriner, petshop veya pet kuaförü müsün? Müşterilerine {app} PRO indirimi vermek ve Yakınımda'da listelenmek için {email} adresine yaz." },
       { title: "Satın alımları geri yükle", text: "{app}'de {app} PRO ekranını aç ve PRO'yu satın aldığın Apple Hesabıyla giriş yapmışken Satın Alımları Geri Yükle'ye dokun." },
       { title: "Aboneliği yönet veya iptal et", text: "Ayarlar uygulaması › adın › Abonelikler'i aç. Uygulamayı silmek aboneliği iptal etmez. İade için Apple ile iletişime geç." },
     ],

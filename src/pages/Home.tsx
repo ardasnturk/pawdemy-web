@@ -14,7 +14,8 @@ export function Home() {
       <Feature id="memories" section={home.memories} slot="memories" tint="bg-peach" />
       <Feature section={home.ask} slot="ask" flip tint="bg-lilac" />
       <Feature section={home.family} slot="family" tint="bg-peach" />
-      <Feature section={home.onboarding} slot="profile" flip tint="bg-mint" />
+      <Feature section={home.onboarding} slot="species" flip tint="bg-mint" />
+      <Feature id="nearby" section={home.nearby} slot="nearby" tint="bg-sky" />
       <Privacy />
       <Pro />
       <Faq />

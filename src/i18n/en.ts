@@ -2,9 +2,9 @@ import type { BaseDictionary } from "./types";
 
 export const en: BaseDictionary = {
   meta: {
-    title: "{app} – Dog Care, Training & Memories for iPhone",
+    title: "{app} – Pet Care, Training & Memories for iPhone",
     description:
-      "{app} keeps everything about your dog in one place: vaccine plan and reminders, daily log and potty timer, expenses, training for every age, photo memories and answers from Apple Intelligence. Private, on your iPhone.",
+      "{app} keeps everything about your dogs, cats, rabbits, birds, small pets, fish and reptiles in one place: care plans and reminders, daily log, budgets, training for every age, photo memories, nearby vets and answers from Apple Intelligence. Private, on your iPhone.",
   },
   nav: {
     features: "Features",
@@ -21,7 +21,7 @@ export const en: BaseDictionary = {
   },
   appStore: { small: "Download on the", large: "App Store", soonSmall: "Coming soon to the", soonLarge: "App Store" },
   footer: {
-    tagline: "Everything about your dog in one calm, private app for iPhone, shared with the people who care for it.",
+    tagline: "Everything about your pets in one calm, private app for iPhone, shared with the people who care for them.",
     product: "Product",
     legal: "Legal",
     privacy: "Privacy Policy",
@@ -35,13 +35,13 @@ export const en: BaseDictionary = {
     back: "Back to home",
     privacyTitle: "Privacy Policy",
     privacyIntro:
-      "This policy explains how the {app} app for iPhone (“{app}”, “the app”), developed by {developer}, handles your information. In short: everything you enter about your dog, including its photos, stays on your iPhone. The app has no accounts, no ads and no analytics, and the developer runs no server. Information leaves your device only if you choose iCloud backup or family sharing (stored in your own iCloud), for purchases of {app} PRO, and when the app asks Apple Maps for the name of a place.",
+      "This policy explains how the {app} app for iPhone (“{app}”, “the app”), developed by {developer}, handles your information. In short: everything you enter about your pets, including their photos, stays on your iPhone. The app has no accounts, no ads and no analytics, and the developer runs no server. Information leaves your device only if you choose iCloud backup or family sharing (stored in your own iCloud), for purchases of {app} PRO, when the app asks Apple Maps for places, and when it downloads the public list of partner vets and shops.",
     privacySections: [
       {
         title: "1. Data we collect",
         paragraphs: [
-          "The developer does not collect or receive any of your data. {app} has no user accounts, no ads, and no analytics or tracking. Your dog's profile, health records, daily log, expenses, training progress and photos are stored in a database on your iPhone.",
-          "The app contains one third-party component: RevenueCat, used only to manage {app} PRO purchases (section 7). It never receives your dog's information or photos.",
+          "The developer does not collect or receive any of your data. {app} has no user accounts, no ads, and no analytics or tracking. Your pets' profiles, health records, daily log, expenses, training progress and photos are stored in a database on your iPhone.",
+          "The app contains one third-party component: RevenueCat, used only to manage {app} PRO purchases (section 7). It never receives your pets' information or photos.",
         ],
       },
       {
@@ -55,7 +55,7 @@ export const en: BaseDictionary = {
       {
         title: "3. Ask Pawly and Apple Intelligence",
         paragraphs: [
-          "On iPhones with Apple Intelligence, answers in Ask Pawly, the welcome note after setup and the subtitles of memory book chapters are written by Apple's on-device model. Your questions and your dog's details are processed on your iPhone and are not sent to the developer or to anyone else.",
+          "On iPhones with Apple Intelligence, answers in Ask Pawly, the welcome note after setup and the subtitles of memory book chapters are written by Apple's on-device model. Your questions and your pets' details are processed on your iPhone and are not sent to the developer or to anyone else.",
           "Answers are general information, can be wrong and are not veterinary advice.",
         ],
       },
@@ -68,7 +68,7 @@ export const en: BaseDictionary = {
       {
         title: "5. Family sharing",
         paragraphs: [
-          "Family sharing is optional and needs iCloud backup. When you invite people, your family's dogs and all of their records and photos are shared with the people you invite, through Apple's iCloud sharing. They can see and change them, and what they log appears for you. The name you enter in the app is shown next to what you log.",
+          "Family sharing is optional and needs iCloud backup. When you invite people, your family's pets and all of their records and photos are shared with the people you invite, through Apple's iCloud sharing. They can see and change them, and what they log appears for you. The name you enter in the app is shown next to what you log.",
           "You choose who is invited and can remove people at any time in Settings › Family & iCloud. Someone who leaves a family has its data removed from their iPhone.",
         ],
       },
@@ -79,25 +79,33 @@ export const en: BaseDictionary = {
         ],
       },
       {
-        title: "7. Purchases and RevenueCat",
+        title: "7. Nearby vets, pet shops and partners",
+        paragraphs: [
+          "When you open Nearby, {app} asks for your location while you use the app and asks Apple Maps for vets and pet shops around you. These searches are handled by Apple under Apple's privacy policy; your location is not sent to the developer.",
+          "The list of partner vets and pet shops is a public file the app downloads from pawly.ardasnturk.com, which is hosted on GitHub Pages. Nothing about you or your pets is sent with this request; as with any website, the host can see your IP address.",
+          "Partner discount codes are App Store offer codes redeemed with Apple. Partners do not learn whether or when you used a code.",
+        ],
+      },
+      {
+        title: "8. Purchases and RevenueCat",
         paragraphs: [
           "{app} PRO is offered as an in-app purchase: an auto-renewing subscription or a one-time purchase. Purchases are processed by Apple through your Apple Account. The developer never receives your payment details.",
-          "To know whether PRO is active, the app uses RevenueCat, a third-party purchase SDK. RevenueCat receives purchase and transaction information and an anonymous app user ID. It does not receive your name, email address, your dog's data or photos, and it is not used for advertising or tracking. RevenueCat's privacy policy: https://www.revenuecat.com/privacy",
+          "To know whether PRO is active, the app uses RevenueCat, a third-party purchase SDK. RevenueCat receives purchase and transaction information and an anonymous app user ID. It does not receive your name, email address, your pets' data or photos, and it is not used for advertising or tracking. RevenueCat's privacy policy: https://www.revenuecat.com/privacy",
           "The free first week of PRO needs no payment and no sign-up. The date it started is stored on your iPhone.",
         ],
       },
       {
-        title: "8. Your choices and deleting your data",
+        title: "9. Your choices and deleting your data",
         paragraphs: [
-          "You can delete any record, photo or dog in the app. Deleting the app removes the data stored on your iPhone; data in your iCloud stays until you delete it in Settings › your name › iCloud. Camera, photo and location access can be changed at any time in the Settings app. Subscriptions are managed and cancelled in your App Store account settings.",
+          "You can delete any record, photo or pet in the app. Deleting the app removes the data stored on your iPhone; data in your iCloud stays until you delete it in Settings › your name › iCloud. Camera, photo and location access can be changed at any time in the Settings app. Subscriptions are managed and cancelled in your App Store account settings.",
         ],
       },
       {
-        title: "9. Children",
+        title: "10. Children",
         paragraphs: ["{app} is not directed at children under 13 and does not knowingly collect personal data from them."],
       },
       {
-        title: "10. Changes and contact",
+        title: "11. Changes and contact",
         paragraphs: ["If this policy changes, we will update this page and the date above. Questions? Write to {email}."],
       },
     ],
@@ -111,7 +119,7 @@ export const en: BaseDictionary = {
       {
         title: "2. {app} PRO, subscriptions and purchases",
         paragraphs: [
-          "One dog's profile, the vaccine plan with reminders, the daily log, expenses, the first two training stages and up to 30 photos are free. {app} PRO adds family sharing, Ask Pawly, the animated memory book, the photo studio, more than one dog, unlimited photos, the full training plan and insights. Every new install includes PRO free for the first week; it needs no payment and does not turn into a paid plan by itself.",
+          "One pet's profile, the care plan with reminders, the daily log, expenses, the first two training stages and up to 30 photos are free. {app} PRO adds family sharing, Ask Pawly, the animated memory book, the photo studio, more than one pet, unlimited photos, the full training plan and insights. Every new install includes PRO free for the first week; it needs no payment and does not turn into a paid plan by itself.",
           "PRO is available as a yearly, 3-month, monthly or weekly auto-renewing subscription, or as a one-time lifetime purchase. New users may see a one-time welcome offer. The price of each plan is shown in the app before you buy, and payment is charged to your Apple Account when you confirm.",
           "Subscriptions renew automatically at the end of each period until you cancel. To avoid being charged for the next period, cancel at least 24 hours before it ends, in your App Store account settings. Deleting the app does not cancel a subscription. Refunds are handled by Apple. Restore Purchases in the app restores PRO on a device signed in to the same Apple Account.",
         ],
@@ -119,8 +127,8 @@ export const en: BaseDictionary = {
       {
         title: "3. Not veterinary advice",
         paragraphs: [
-          "{app} helps you organise your dog's care. The vaccine plan follows a common schedule and your vet may change it. Training lessons, the life-stage guide, the potty timer and answers in Ask Pawly are general information and can be wrong. Nothing in the app is veterinary advice, diagnosis or treatment.",
-          "If your dog seems unwell, is injured or may have eaten something harmful, contact a vet straight away.",
+          "{app} helps you organise your pets' care. The vaccine plan follows a common schedule and your vet may change it. Training lessons, the life-stage guide, the potty timer and answers in Ask Pawly are general information and can be wrong. Nothing in the app is veterinary advice, diagnosis or treatment.",
+          "If your pet seems unwell, is injured or may have eaten something harmful, contact a vet straight away.",
         ],
       },
       {
@@ -129,7 +137,13 @@ export const en: BaseDictionary = {
           "Your data belongs to you and stays on your iPhone unless you turn on iCloud backup or family sharing. You are responsible for whom you invite to your family. How {app} handles data is described in the Privacy Policy.",
         ],
       },
-      { title: "5. Contact", paragraphs: ["Questions about these terms: {email}."] },
+      {
+        title: "5. Partner codes",
+        paragraphs: [
+          "Partner vets and shops are independent businesses. Their discount codes are App Store offer codes: the discount, the plan it applies to and its end date are shown by Apple before you confirm, and Apple's terms apply. A code can be used once per Apple Account and may run out or expire.",
+        ],
+      },
+      { title: "6. Contact", paragraphs: ["Questions about these terms: {email}."] },
     ],
   },
   support: {
@@ -144,6 +158,9 @@ export const en: BaseDictionary = {
       { title: "Ask Pawly isn't available", text: "Ask Pawly needs an iPhone that supports Apple Intelligence, with Apple Intelligence turned on in Settings › Apple Intelligence & Siri. Everything else works on every supported iPhone." },
       { title: "The background isn't removed", text: "Background removal works best on a photo where the dog is clearly separate from the background. It runs on your iPhone, so nothing is uploaded." },
       { title: "Where is my AirTag?", text: "Apple doesn't let apps read AirTag locations. Tap Open Find My on the Home screen to see your dog's AirTag in Find My, and use Lost Poster if your dog is missing." },
+      { title: "Use a partner code", text: "Open Nearby › Partners or Settings › Redeem Partner Code and enter the code from your vet or pet shop, or open the link they gave you. The discount is shown by Apple before you confirm." },
+      { title: "Nearby shows nothing", text: "Allow location for {app} in Settings › Privacy & Security › Location Services, or move the map and tap Search This Area." },
+      { title: "Become a partner", text: "Are you a vet, pet shop or groomer? Write to {email} to give your customers a {app} PRO discount and be listed under Nearby." },
       { title: "Restore purchases", text: "In {app}, open the {app} PRO screen and tap Restore Purchases, signed in to the Apple Account you bought PRO with." },
       { title: "Manage or cancel a subscription", text: "Open the Settings app › your name › Subscriptions. Deleting the app does not cancel a subscription. For refunds, contact Apple." },
     ],
