@@ -10,7 +10,7 @@ export const BUNDLE_ID = "com.ardasnturk.pawly";
 export const DEVELOPER = "Arda Sentürk";
 export const SUPPORT_EMAIL = "support@ardasnturk.com";
 /** Oldest supported iOS version, shown in the copy. */
-export const MIN_IOS = "26";
+export const MIN_IOS = "17";
 
 /**
  * App Store page, e.g. "https://apps.apple.com/app/id6834713847".

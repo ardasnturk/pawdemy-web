@@ -2,7 +2,7 @@ import type { HomeDictionary } from "../types";
 
 export const en: HomeDictionary = {
   hero: {
-    eyebrow: "For iPhone · iOS {ios} or later",
+    eyebrow: "For iPhone and Apple Watch · iOS {ios} or later",
     title: "Everything for your",
     highlight: "best friends.",
     subtitle:
@@ -57,7 +57,7 @@ export const en: HomeDictionary = {
   },
   ask: {
     eyebrow: "Ask Pawly",
-    title: "Answers that know your dog.",
+    title: "Answers that know your pet.",
     text: "Ask anything, from a kitten biting during play to a turtle that stopped eating. Apple Intelligence answers on your iPhone, using your pet's species, breed, age, records and daily log.",
     points: ["Open it from the sparkle button on every tab", "Suggested questions for your pet's species and age", "Private: nothing leaves your iPhone", "Tells you plainly when to call the vet"],
     screenshotAlt: "Ask Pawly with suggested questions for Mila",
@@ -111,8 +111,8 @@ export const en: HomeDictionary = {
       { q: "Can my partner and I use it together?", a: "Yes. With PRO and iCloud on, invite them from Settings › Family & iCloud. You both see and log for the same pets." },
       { q: "How do partner codes work?", a: "Vets and pet shops working with {app} give you a code, such as PETSY20. Redeem it in {app} under Nearby › Partners; Apple shows the discount before you confirm." },
       { q: "Is the care plan right for my country?", a: "It follows common schedules for each species. Your vet may adjust it; every date and record can be edited." },
-      { q: "Can {app} show where my AirTag is?", a: "Apple doesn't let apps read AirTag locations. {app} opens Find My in one tap and can make a lost-dog poster from the profile." },
-      { q: "Which iPhones support Ask Pawly?", a: "iPhones with Apple Intelligence. Everything else works on any iPhone with iOS {ios} or later." },
+      { q: "Can {app} show where my AirTag is?", a: "Apple doesn't let apps read AirTag locations. {app} opens Find My in one tap and can make a lost-pet poster from the profile." },
+      { q: "Which iPhones support Ask Pawly?", a: "iPhones with Apple Intelligence on iOS 26. Everything else works on any iPhone with iOS {ios} or later." },
       { q: "Which languages are supported?", a: "English, Turkish, German, Spanish, French and Italian." },
     ],
   },

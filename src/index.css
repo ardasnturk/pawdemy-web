@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Colours follow the app: warm cream background, white cards, orange and pastel cards behind the dog.
+/* Colours follow the app: warm cream background, white cards, orange and pastel cards behind the pets.
    System font first so Apple devices get SF Pro. */
 @theme {
   --font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Noto Sans", sans-serif,

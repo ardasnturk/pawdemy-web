@@ -2,7 +2,7 @@ import type { HomeDictionary } from "../types";
 
 export const tr: HomeDictionary = {
   hero: {
-    eyebrow: "iPhone için · iOS {ios} ve sonrası",
+    eyebrow: "iPhone ve Apple Watch için · iOS {ios} ve sonrası",
     title: "En iyi dostların için",
     highlight: "her şey.",
     subtitle:
@@ -57,7 +57,7 @@ export const tr: HomeDictionary = {
   },
   ask: {
     eyebrow: "Pawly'ye Sor",
-    title: "Köpeğini tanıyan yanıtlar.",
+    title: "Evcil hayvanını tanıyan yanıtlar.",
     text: "Oyun sırasında ısıran yavru kediden yemeyi bırakan kaplumbağaya kadar her şeyi sor. Apple Intelligence; evcil hayvanının türünü, ırkını, yaşını, kayıtlarını ve günlüğünü kullanarak iPhone'unda yanıtlar.",
     points: ["Her sekmedeki ışıltı butonundan açılır", "Evcil hayvanının türüne ve yaşına uygun önerilen sorular", "Gizli: hiçbir şey iPhone'undan çıkmaz", "Veterinere ne zaman gitmen gerektiğini açıkça söyler"],
     screenshotAlt: "Mila için önerilen sorularla Pawly'ye Sor ekranı",
@@ -111,8 +111,8 @@ export const tr: HomeDictionary = {
       { q: "Eşimle birlikte kullanabilir miyiz?", a: "Evet. PRO ve iCloud açıkken Ayarlar › Aile ve iCloud'dan davet et. İkiniz de aynı evcil hayvanları görür ve kaydedersiniz." },
       { q: "Partner kodları nasıl çalışır?", a: "{app} ile çalışan veteriner ve petshoplar sana PETSY20 gibi bir kod verir. Kodu {app}'de Yakınımda › Partnerler bölümünden kullan; Apple onaylamadan önce indirimi gösterir." },
       { q: "Bakım planı ülkeme uygun mu?", a: "Her tür için yaygın takvimleri izler. Veterinerin bunu değiştirebilir; her tarih ve kayıt düzenlenebilir." },
-      { q: "{app} AirTag'imin nerede olduğunu gösterebilir mi?", a: "Apple, uygulamaların AirTag konumunu okumasına izin vermiyor. {app} Bul'u tek dokunuşla açar ve profilden kayıp köpek ilanı hazırlayabilir." },
-      { q: "Pawly'ye Sor hangi iPhone'larda çalışır?", a: "Apple Intelligence destekleyen iPhone'larda. Diğer her şey iOS {ios} ve sonrasını çalıştıran tüm iPhone'larda çalışır." },
+      { q: "{app} AirTag'imin nerede olduğunu gösterebilir mi?", a: "Apple, uygulamaların AirTag konumunu okumasına izin vermiyor. {app} Bul'u tek dokunuşla açar ve profilden kayıp hayvan ilanı hazırlayabilir." },
+      { q: "Pawly'ye Sor hangi iPhone'larda çalışır?", a: "iOS 26 yüklü, Apple Intelligence destekleyen iPhone'larda. Diğer her şey iOS {ios} ve sonrasını çalıştıran tüm iPhone'larda çalışır." },
       { q: "Hangi diller destekleniyor?", a: "İngilizce, Türkçe, Almanca, İspanyolca, Fransızca ve İtalyanca." },
     ],
   },
