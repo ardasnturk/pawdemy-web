@@ -53,9 +53,9 @@ export const tr: BaseDictionary = {
         ],
       },
       {
-        title: "3. Pawly'ye Sor ve Apple Intelligence",
+        title: "3. Pawdemy'ye Sor ve Apple Intelligence",
         paragraphs: [
-          "Apple Intelligence destekleyen iPhone'larda Pawly'ye Sor yanıtları, kurulumdan sonraki karşılama notu ve anı defteri bölümlerinin alt başlıkları Apple'ın cihaz üzerindeki modeli tarafından yazılır. Soruların ve evcil hayvanlarının bilgileri iPhone'unda işlenir; geliştiriciye veya başka birine gönderilmez.",
+          "Apple Intelligence destekleyen iPhone'larda Pawdemy'ye Sor yanıtları, kurulumdan sonraki karşılama notu ve anı defteri bölümlerinin alt başlıkları Apple'ın cihaz üzerindeki modeli tarafından yazılır. Soruların ve evcil hayvanlarının bilgileri iPhone'unda işlenir; geliştiriciye veya başka birine gönderilmez.",
           "Yanıtlar genel bilgidir, hatalı olabilir ve veteriner tavsiyesi değildir.",
         ],
       },
@@ -119,7 +119,7 @@ export const tr: BaseDictionary = {
       {
         title: "2. {app} PRO, abonelikler ve satın alımlar",
         paragraphs: [
-          "Bir evcil hayvanın profili, hatırlatmalı bakım planı, günlük kayıt, harcamalar, ilk iki eğitim aşaması ve en fazla 30 fotoğraf ücretsizdir. {app} PRO; aile paylaşımı, Pawly'ye Sor, animasyonlu anı defteri, fotoğraf stüdyosu, birden fazla evcil hayvan, sınırsız fotoğraf, eğitim planının tamamı ve içgörüler ekler. Her yeni kurulumda PRO ilk hafta ücretsizdir; ödeme gerektirmez ve kendiliğinden ücretli plana dönüşmez.",
+          "Bir evcil hayvanın profili, hatırlatmalı bakım planı, günlük kayıt, harcamalar, ilk iki eğitim aşaması ve en fazla 30 fotoğraf ücretsizdir. {app} PRO; aile paylaşımı, Pawdemy'ye Sor, animasyonlu anı defteri, fotoğraf stüdyosu, birden fazla evcil hayvan, sınırsız fotoğraf, eğitim planının tamamı ve içgörüler ekler. Her yeni kurulumda PRO ilk hafta ücretsizdir; ödeme gerektirmez ve kendiliğinden ücretli plana dönüşmez.",
           "PRO; yıllık, 3 aylık, aylık veya haftalık otomatik yenilenen abonelik ya da tek seferlik ömür boyu satın alım olarak sunulur. Yeni kullanıcılar tek seferlik bir hoş geldin teklifi görebilir. Her planın fiyatı satın almadan önce uygulamada gösterilir; ödeme, onayladığında Apple Hesabından alınır.",
           "Abonelikler iptal edene kadar her dönemin sonunda otomatik olarak yenilenir. Sonraki dönem için ücretlendirilmemek için dönem bitmeden en az 24 saat önce App Store hesap ayarlarından iptal et. Uygulamayı silmek aboneliği iptal etmez. İadeler Apple tarafından yürütülür. Uygulamadaki Satın Alımları Geri Yükle, aynı Apple Hesabıyla giriş yapılmış bir cihazda PRO'yu geri getirir.",
         ],
@@ -127,7 +127,7 @@ export const tr: BaseDictionary = {
       {
         title: "3. Veteriner tavsiyesi değildir",
         paragraphs: [
-          "{app}, evcil hayvanlarının bakımını düzenlemene yardım eder. Aşı planı yaygın bir takvimi izler ve veterinerin bunu değiştirebilir. Eğitim dersleri, yaşam evresi rehberi, tuvalet zamanlayıcısı ve Pawly'ye Sor yanıtları genel bilgidir ve hatalı olabilir. Uygulamadaki hiçbir şey veteriner tavsiyesi, teşhis veya tedavi değildir.",
+          "{app}, evcil hayvanlarının bakımını düzenlemene yardım eder. Aşı planı yaygın bir takvimi izler ve veterinerin bunu değiştirebilir. Eğitim dersleri, yaşam evresi rehberi, tuvalet zamanlayıcısı ve Pawdemy'ye Sor yanıtları genel bilgidir ve hatalı olabilir. Uygulamadaki hiçbir şey veteriner tavsiyesi, teşhis veya tedavi değildir.",
           "Evcil hayvanın rahatsız görünüyorsa, yaralandıysa veya zararlı bir şey yemiş olabilirse hemen bir veterinere başvur.",
         ],
       },
@@ -155,7 +155,7 @@ export const tr: BaseDictionary = {
       { title: "iCloud ile yedekle", text: "Ayarlar › Aile ve iCloud'u aç ve iCloud Yedekleme ve Eşitleme'yi aç. iPhone'unda iCloud'a giriş yapmış olman gerekir. Verilerin kendi özel iCloud'una gider." },
       { title: "Aileni davet et", text: "iCloud yedekleme açık ve {app} PRO etkinken Ayarlar › Aile ve iCloud › Aile Üyesi Davet Et'e dokun ve bağlantıyı gönder. Bağlantıyı iPhone'larında açtıklarında evcil hayvanların onların {app}'sinde de görünür." },
       { title: "Hatırlatmalar gelmiyor", text: "Ayarlar uygulaması › Bildirimler'den {app} için bildirimlere izin ver. Hatırlatmalar, Hatırlat seçeneği açık olan kayıtlar için üç gün önce ve günü geldiğinde gelir." },
-      { title: "Pawly'ye Sor kullanılamıyor", text: "Pawly'ye Sor, Apple Intelligence destekleyen bir iPhone'da iOS 26 ve Ayarlar › Apple Intelligence ve Siri'de açık olan Apple Intelligence gerektirir. Diğer her şey desteklenen tüm iPhone'larda çalışır." },
+      { title: "Pawdemy'ye Sor kullanılamıyor", text: "Pawdemy'ye Sor, Apple Intelligence destekleyen bir iPhone'da iOS 26 ve Ayarlar › Apple Intelligence ve Siri'de açık olan Apple Intelligence gerektirir. Diğer her şey desteklenen tüm iPhone'larda çalışır." },
       { title: "Arka plan silinmiyor", text: "Arka plan silme, evcil hayvanının arka plandan net biçimde ayrıldığı fotoğraflarda en iyi sonucu verir. İşlem iPhone'unda yapılır, hiçbir şey yüklenmez." },
       { title: "AirTag'im nerede?", text: "Apple, uygulamaların AirTag konumunu okumasına izin vermiyor. Ana ekrandaki Bul'u Aç'a dokunarak evcil hayvanının AirTag'ini Bul uygulamasında gör; kaybolursa Kayıp İlanı'nı kullan." },
       { title: "Partner kodu kullan", text: "Yakınımda › Partnerler'i veya Ayarlar › Partner Kodu Kullan'ı aç ve veterinerinin ya da petshopunun verdiği kodu gir; ya da sana verdikleri bağlantıyı aç. İndirim, onaylamadan önce Apple tarafından gösterilir." },

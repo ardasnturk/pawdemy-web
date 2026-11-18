@@ -31,7 +31,7 @@ export const en: HomeDictionary = {
       { title: "Training", text: "Step-by-step lessons for every age, from name recognition to high fives." },
       { title: "Memory book", text: "Photos turned into animated chapters with dates and places." },
       { title: "Budget per pet", text: "A monthly plan for each pet, with spending by category and month." },
-      { title: "Nearby & partners", text: "Vets and pet shops around you, with discount codes from Pawly partners." },
+      { title: "Nearby & partners", text: "Vets and pet shops around you, with discount codes from Pawdemy partners." },
     ],
   },
   care: {
@@ -56,11 +56,11 @@ export const en: HomeDictionary = {
     screenshotAlt: "Memories tab with memory book chapters and the photo gallery",
   },
   ask: {
-    eyebrow: "Ask Pawly",
+    eyebrow: "Ask Pawdemy",
     title: "Answers that know your pet.",
     text: "Ask anything, from a kitten biting during play to a turtle that stopped eating. Apple Intelligence answers on your iPhone, using your pet's species, breed, age, records and daily log.",
     points: ["Open it from the sparkle button on every tab", "Suggested questions for your pet's species and age", "Private: nothing leaves your iPhone", "Tells you plainly when to call the vet"],
-    screenshotAlt: "Ask Pawly with suggested questions for Mila",
+    screenshotAlt: "Ask Pawdemy with suggested questions for Mila",
   },
   family: {
     eyebrow: "Family",
@@ -72,7 +72,7 @@ export const en: HomeDictionary = {
   nearby: {
     eyebrow: "Nearby",
     title: "The nearest vet, one tap away.",
-    text: "Find vets, animal hospitals and pet shops around you on a map, call them or get directions. Pawly partners are marked, with a discount code for PRO.",
+    text: "Find vets, animal hospitals and pet shops around you on a map, call them or get directions. Pawdemy partners are marked, with a discount code for PRO.",
     points: ["Found with Apple Maps, sorted by distance", "Call, directions and website in one tap", "Partner discount codes, redeemed with Apple", "Partners added without an app update"],
     screenshotAlt: "Nearby tab with a map and vet clinics in Kumluca",
   },
@@ -100,7 +100,7 @@ export const en: HomeDictionary = {
     free: "Free",
     freeItems: ["One pet's profile", "Care plan and reminders", "Daily care log", "Budget and expenses", "First two training stages", "Up to 30 photos", "iCloud backup"],
     proTitle: "PRO",
-    proItems: ["Family sharing", "Ask Pawly", "Animated memory book", "Photo studio", "More than one pet", "Unlimited photos", "Full training plan", "Insights and charts"],
+    proItems: ["Family sharing", "Ask Pawdemy", "Animated memory book", "Photo studio", "More than one pet", "Unlimited photos", "Full training plan", "Insights and charts"],
     trial: "Yearly, 3-month, monthly, weekly or lifetime. Prices are shown in the app.",
   },
   faq: {
@@ -112,7 +112,7 @@ export const en: HomeDictionary = {
       { q: "How do partner codes work?", a: "Vets and pet shops working with {app} give you a code, such as PETSY20. Redeem it in {app} under Nearby › Partners; Apple shows the discount before you confirm." },
       { q: "Is the care plan right for my country?", a: "It follows common schedules for each species. Your vet may adjust it; every date and record can be edited." },
       { q: "Can {app} show where my AirTag is?", a: "Apple doesn't let apps read AirTag locations. {app} opens Find My in one tap and can make a lost-pet poster from the profile." },
-      { q: "Which iPhones support Ask Pawly?", a: "iPhones with Apple Intelligence on iOS 26. Everything else works on any iPhone with iOS {ios} or later." },
+      { q: "Which iPhones support Ask Pawdemy?", a: "iPhones with Apple Intelligence on iOS 26. Everything else works on any iPhone with iOS {ios} or later." },
       { q: "Which languages are supported?", a: "English, Turkish, German, Spanish, French and Italian." },
     ],
   },

@@ -53,9 +53,9 @@ export const en: BaseDictionary = {
         ],
       },
       {
-        title: "3. Ask Pawly and Apple Intelligence",
+        title: "3. Ask Pawdemy and Apple Intelligence",
         paragraphs: [
-          "On iPhones with Apple Intelligence, answers in Ask Pawly, the welcome note after setup and the subtitles of memory book chapters are written by Apple's on-device model. Your questions and your pets' details are processed on your iPhone and are not sent to the developer or to anyone else.",
+          "On iPhones with Apple Intelligence, answers in Ask Pawdemy, the welcome note after setup and the subtitles of memory book chapters are written by Apple's on-device model. Your questions and your pets' details are processed on your iPhone and are not sent to the developer or to anyone else.",
           "Answers are general information, can be wrong and are not veterinary advice.",
         ],
       },
@@ -119,7 +119,7 @@ export const en: BaseDictionary = {
       {
         title: "2. {app} PRO, subscriptions and purchases",
         paragraphs: [
-          "One pet's profile, the care plan with reminders, the daily log, expenses, the first two training stages and up to 30 photos are free. {app} PRO adds family sharing, Ask Pawly, the animated memory book, the photo studio, more than one pet, unlimited photos, the full training plan and insights. Every new install includes PRO free for the first week; it needs no payment and does not turn into a paid plan by itself.",
+          "One pet's profile, the care plan with reminders, the daily log, expenses, the first two training stages and up to 30 photos are free. {app} PRO adds family sharing, Ask Pawdemy, the animated memory book, the photo studio, more than one pet, unlimited photos, the full training plan and insights. Every new install includes PRO free for the first week; it needs no payment and does not turn into a paid plan by itself.",
           "PRO is available as a yearly, 3-month, monthly or weekly auto-renewing subscription, or as a one-time lifetime purchase. New users may see a one-time welcome offer. The price of each plan is shown in the app before you buy, and payment is charged to your Apple Account when you confirm.",
           "Subscriptions renew automatically at the end of each period until you cancel. To avoid being charged for the next period, cancel at least 24 hours before it ends, in your App Store account settings. Deleting the app does not cancel a subscription. Refunds are handled by Apple. Restore Purchases in the app restores PRO on a device signed in to the same Apple Account.",
         ],
@@ -127,7 +127,7 @@ export const en: BaseDictionary = {
       {
         title: "3. Not veterinary advice",
         paragraphs: [
-          "{app} helps you organise your pets' care. The vaccine plan follows a common schedule and your vet may change it. Training lessons, the life-stage guide, the potty timer and answers in Ask Pawly are general information and can be wrong. Nothing in the app is veterinary advice, diagnosis or treatment.",
+          "{app} helps you organise your pets' care. The vaccine plan follows a common schedule and your vet may change it. Training lessons, the life-stage guide, the potty timer and answers in Ask Pawdemy are general information and can be wrong. Nothing in the app is veterinary advice, diagnosis or treatment.",
           "If your pet seems unwell, is injured or may have eaten something harmful, contact a vet straight away.",
         ],
       },
@@ -155,7 +155,7 @@ export const en: BaseDictionary = {
       { title: "Back up with iCloud", text: "Open Settings › Family & iCloud and turn on iCloud Backup & Sync. You need to be signed in to iCloud on your iPhone. Your data goes to your own private iCloud." },
       { title: "Invite your family", text: "With iCloud backup on and {app} PRO, open Settings › Family & iCloud › Invite Family Member and send the link. When they open it on their iPhone, your pets appear in their {app}." },
       { title: "Reminders don't arrive", text: "Allow notifications for {app} in the Settings app › Notifications. Reminders arrive three days before and on the day something is due, for items with Remind me turned on." },
-      { title: "Ask Pawly isn't available", text: "Ask Pawly needs iOS 26 on an iPhone that supports Apple Intelligence, with Apple Intelligence turned on in Settings › Apple Intelligence & Siri. Everything else works on every supported iPhone." },
+      { title: "Ask Pawdemy isn't available", text: "Ask Pawdemy needs iOS 26 on an iPhone that supports Apple Intelligence, with Apple Intelligence turned on in Settings › Apple Intelligence & Siri. Everything else works on every supported iPhone." },
       { title: "The background isn't removed", text: "Background removal works best on a photo where the pet is clearly separate from the background. It runs on your iPhone, so nothing is uploaded." },
       { title: "Where is my AirTag?", text: "Apple doesn't let apps read AirTag locations. Tap Open Find My on the Home screen to see your pet's AirTag in Find My, and use Lost Poster if your pet is missing." },
       { title: "Use a partner code", text: "Open Nearby › Partners or Settings › Redeem Partner Code and enter the code from your vet or pet shop, or open the link they gave you. The discount is shown by Apple before you confirm." },

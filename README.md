@@ -1,6 +1,6 @@
-# Pawly website
+# Pawdemy website
 
-Landing page, privacy policy, terms and support for the Pawly iOS app, at https://pawly.ardasnturk.com.
+Landing page, privacy policy, terms and support for the Pawdemy iOS app, at https://pawly.ardasnturk.com.
 Vite + React + Tailwind, English and Turkish (`src/i18n`). Deployed to GitHub Pages by `.github/workflows/deploy.yml`
 on every push to `main`; the custom domain is in `public/CNAME`.
 

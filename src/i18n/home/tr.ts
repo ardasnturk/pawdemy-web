@@ -31,7 +31,7 @@ export const tr: HomeDictionary = {
       { title: "Eğitim", text: "Her yaş için adım adım dersler: adını tanımaktan beşlik çakmaya." },
       { title: "Anı defteri", text: "Fotoğraflar tarih ve yerleriyle animasyonlu bölümlere dönüşür." },
       { title: "Her hayvana bütçe", text: "Her evcil hayvan için aylık plan; kategori ve aya göre harcamalar." },
-      { title: "Yakınımda ve partnerler", text: "Çevrendeki veteriner ve petshoplar, Pawly partnerlerinin indirim kodlarıyla." },
+      { title: "Yakınımda ve partnerler", text: "Çevrendeki veteriner ve petshoplar, Pawdemy partnerlerinin indirim kodlarıyla." },
     ],
   },
   care: {
@@ -56,11 +56,11 @@ export const tr: HomeDictionary = {
     screenshotAlt: "Anı defteri bölümleri ve fotoğraf galerisiyle Anılar sekmesi",
   },
   ask: {
-    eyebrow: "Pawly'ye Sor",
+    eyebrow: "Pawdemy'ye Sor",
     title: "Evcil hayvanını tanıyan yanıtlar.",
     text: "Oyun sırasında ısıran yavru kediden yemeyi bırakan kaplumbağaya kadar her şeyi sor. Apple Intelligence; evcil hayvanının türünü, ırkını, yaşını, kayıtlarını ve günlüğünü kullanarak iPhone'unda yanıtlar.",
     points: ["Her sekmedeki ışıltı butonundan açılır", "Evcil hayvanının türüne ve yaşına uygun önerilen sorular", "Gizli: hiçbir şey iPhone'undan çıkmaz", "Veterinere ne zaman gitmen gerektiğini açıkça söyler"],
-    screenshotAlt: "Mila için önerilen sorularla Pawly'ye Sor ekranı",
+    screenshotAlt: "Mila için önerilen sorularla Pawdemy'ye Sor ekranı",
   },
   family: {
     eyebrow: "Aile",
@@ -72,7 +72,7 @@ export const tr: HomeDictionary = {
   nearby: {
     eyebrow: "Yakınımda",
     title: "En yakın veteriner bir dokunuş uzağında.",
-    text: "Çevrendeki veterinerleri, hayvan hastanelerini ve petshopları haritada bul; ara ya da yol tarifi al. Pawly partnerleri işaretlidir ve PRO için indirim kodları vardır.",
+    text: "Çevrendeki veterinerleri, hayvan hastanelerini ve petshopları haritada bul; ara ya da yol tarifi al. Pawdemy partnerleri işaretlidir ve PRO için indirim kodları vardır.",
     points: ["Apple Haritalar ile bulunur, mesafeye göre sıralanır", "Tek dokunuşla arama, yol tarifi ve web sitesi", "Apple ile kullanılan partner indirim kodları", "Partnerler uygulama güncellemesi olmadan eklenir"],
     screenshotAlt: "Harita ve Kumluca'daki veteriner klinikleriyle Yakınımda sekmesi",
   },
@@ -100,7 +100,7 @@ export const tr: HomeDictionary = {
     free: "Ücretsiz",
     freeItems: ["Bir evcil hayvanın profili", "Bakım planı ve hatırlatmalar", "Günlük bakım kaydı", "Bütçe ve harcamalar", "İlk iki eğitim aşaması", "En fazla 30 fotoğraf", "iCloud yedekleme"],
     proTitle: "PRO",
-    proItems: ["Aile paylaşımı", "Pawly'ye Sor", "Animasyonlu anı defteri", "Fotoğraf stüdyosu", "Birden fazla evcil hayvan", "Sınırsız fotoğraf", "Eğitim planının tamamı", "İçgörüler ve grafikler"],
+    proItems: ["Aile paylaşımı", "Pawdemy'ye Sor", "Animasyonlu anı defteri", "Fotoğraf stüdyosu", "Birden fazla evcil hayvan", "Sınırsız fotoğraf", "Eğitim planının tamamı", "İçgörüler ve grafikler"],
     trial: "Yıllık, 3 aylık, aylık, haftalık veya ömür boyu. Fiyatlar uygulamada gösterilir.",
   },
   faq: {
@@ -112,7 +112,7 @@ export const tr: HomeDictionary = {
       { q: "Partner kodları nasıl çalışır?", a: "{app} ile çalışan veteriner ve petshoplar sana PETSY20 gibi bir kod verir. Kodu {app}'de Yakınımda › Partnerler bölümünden kullan; Apple onaylamadan önce indirimi gösterir." },
       { q: "Bakım planı ülkeme uygun mu?", a: "Her tür için yaygın takvimleri izler. Veterinerin bunu değiştirebilir; her tarih ve kayıt düzenlenebilir." },
       { q: "{app} AirTag'imin nerede olduğunu gösterebilir mi?", a: "Apple, uygulamaların AirTag konumunu okumasına izin vermiyor. {app} Bul'u tek dokunuşla açar ve profilden kayıp hayvan ilanı hazırlayabilir." },
-      { q: "Pawly'ye Sor hangi iPhone'larda çalışır?", a: "iOS 26 yüklü, Apple Intelligence destekleyen iPhone'larda. Diğer her şey iOS {ios} ve sonrasını çalıştıran tüm iPhone'larda çalışır." },
+      { q: "Pawdemy'ye Sor hangi iPhone'larda çalışır?", a: "iOS 26 yüklü, Apple Intelligence destekleyen iPhone'larda. Diğer her şey iOS {ios} ve sonrasını çalıştıran tüm iPhone'larda çalışır." },
       { q: "Hangi diller destekleniyor?", a: "İngilizce, Türkçe, Almanca, İspanyolca, Fransızca ve İtalyanca." },
     ],
   },

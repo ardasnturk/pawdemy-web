@@ -5,7 +5,7 @@
  */
 
 /** App name. Renaming the app = changing this line. */
-export const APP_NAME = "Pawly";
+export const APP_NAME = "Pawdemy";
 export const BUNDLE_ID = "com.ardasnturk.pawly";
 export const DEVELOPER = "Arda Sentürk";
 export const SUPPORT_EMAIL = "support@ardasnturk.com";
