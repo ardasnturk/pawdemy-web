@@ -82,7 +82,7 @@ export const en: BaseDictionary = {
         title: "7. Nearby vets, pet shops and partners",
         paragraphs: [
           "When you open Nearby, {app} asks for your location while you use the app and asks Apple Maps for vets and pet shops around you. These searches are handled by Apple under Apple's privacy policy; your location is not sent to the developer.",
-          "The list of partner vets and pet shops is a public file the app downloads from pawly.ardasnturk.com, which is hosted on GitHub Pages. Nothing about you or your pets is sent with this request; as with any website, the host can see your IP address.",
+          "The list of partner vets and pet shops is a public file the app downloads from pawdemy.ardasnturk.com, which is hosted on GitHub Pages. Nothing about you or your pets is sent with this request; as with any website, the host can see your IP address.",
           "Partner discount codes are App Store offer codes redeemed with Apple. Partners do not learn whether or when you used a code.",
         ],
       },

@@ -82,7 +82,7 @@ export const tr: BaseDictionary = {
         title: "7. Yakındaki veterinerler, petshoplar ve partnerler",
         paragraphs: [
           "Yakınımda bölümünü açtığında {app}, uygulamayı kullanırken konumunu ister ve çevrendeki veteriner ve petshopları Apple Haritalar'a sorar. Bu aramalar Apple'ın gizlilik politikasına göre Apple tarafından işlenir; konumun geliştiriciye gönderilmez.",
-          "Partner veteriner ve petshop listesi, uygulamanın GitHub Pages üzerinde barındırılan pawly.ardasnturk.com adresinden indirdiği herkese açık bir dosyadır. Bu istekle senin veya evcil hayvanlarınla ilgili hiçbir şey gönderilmez; her web sitesinde olduğu gibi barındırma hizmeti IP adresini görebilir.",
+          "Partner veteriner ve petshop listesi, uygulamanın GitHub Pages üzerinde barındırılan pawdemy.ardasnturk.com adresinden indirdiği herkese açık bir dosyadır. Bu istekle senin veya evcil hayvanlarınla ilgili hiçbir şey gönderilmez; her web sitesinde olduğu gibi barındırma hizmeti IP adresini görebilir.",
           "Partner indirim kodları, Apple ile kullanılan App Store teklif kodlarıdır. Partnerler bir kodu kullanıp kullanmadığını veya ne zaman kullandığını öğrenmez.",
         ],
       },

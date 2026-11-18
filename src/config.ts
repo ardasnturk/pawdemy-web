@@ -19,7 +19,7 @@ export const MIN_IOS = "17";
 export const APP_STORE_URL: string | null = null;
 
 /** Public address of the site without a trailing slash; must match `public/CNAME`. */
-export const SITE_URL: string | null = "https://pawly.ardasnturk.com";
+export const SITE_URL: string | null = "https://pawdemy.ardasnturk.com";
 
 export type ScreenSlot = "home" | "care" | "training" | "memories" | "ask" | "family" | "profile" | "species" | "nearby";
 
